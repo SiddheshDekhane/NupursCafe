@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 
 function Cards({ image, rating, title, paragraph, price }) {
   return (
-    <Col sm={6} lg={4} xl={3} className="mb-4">
+   <Col xs={12} sm={6} lg={4} xl={3} className="mb-4">
+
       <Card className="overflow-hidden">
         <div className="overflow-hidden">
         <Card.Img variant="top" src={image} />
