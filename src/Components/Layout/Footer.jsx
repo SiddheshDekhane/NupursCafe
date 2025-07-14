@@ -81,7 +81,7 @@ function Footer() {
                 <ul className="list-unstyled text-center mb-0">
                   <li>
                     <Link to="/">
-                      © 2023 <span>NUPURGHUME</span>. All Rights Reserved
+                      © 2025 <span>NUPURGHUME</span>. All Rights Reserved
                     </Link>
                   </li>
                   <li>

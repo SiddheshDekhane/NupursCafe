@@ -9,6 +9,7 @@ import Section7 from "./Section7";
 import Footer from "../../Components/Layout/Footer";
 
 
+
 function Home(){
     return (
       <>
